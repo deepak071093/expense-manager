@@ -1,7 +1,3 @@
-#print("Hello, Linux Mint!")
-#print("hey shona")
-
-
 import re
 from collections import defaultdict
 
