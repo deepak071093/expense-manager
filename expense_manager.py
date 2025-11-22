@@ -27,7 +27,7 @@ def parse_amount(amount_str):
     return total
 
 # Open and read the text file
-with open("/media/deepak/New Volume1/Programming_Data/Python/expenses.txt", "r") as f:
+with open("/expenses.txt", "r") as f:
     lines = f.readlines()
 
 for line in lines:
